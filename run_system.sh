@@ -1,6 +1,4 @@
-#!/usr/bin/bash
 
-echo Judge	Type 	Avg Word Len 	Latin Terms 	Second Person 	Decisive Terms >> summary_results.txt
 
 # Metrics to Add
 #Second Person

@@ -3,14 +3,11 @@ import re
 from statistics import mean 
 from nltk.tokenize import word_tokenize
 
-# judge = sys.argv[1]
-# typ = sys.argv[2]
-
 inputdir = "./_data/"
 outputfile = "summary_results.txt"
 
 def word_analysis(judge, typ, case, outputfile, latinTerms, decisiveTerms):
-	totalwordcount = 0;
+	totalwordcount = 0
 	latintermscount = 0
 	secondpersoncount = 0
 	decisivecount = 0
@@ -24,7 +21,6 @@ def word_analysis(judge, typ, case, outputfile, latinTerms, decisiveTerms):
 			if (token.isalpha()):
 				totalwordcount+=1
 				wordlengths.append(len(token))
-				# print(token + ", " + str(len(token)))
 				if (token == "you"):
 					secondpersoncount+=1
 				elif (token in latinTerms) or ((i + 1 < len(tokens)) and ((token + " " + tokens[i+1]) in latinTerms)) or ((i + 2 < len(tokens)) and ((token + " " + tokens[i+1] + " " + tokens[i+2]) in latinTerms)):
@@ -50,7 +46,6 @@ def main():
 			decisiveTerms.add(line)
 	with open(outputfile, "w+") as outf:
 		outf.write("Judge\tType\tAvg Word Len\tLatin Terms\tSecond Person\tDecisive Terms\n")
-
 
 	for judge in os.listdir("./_data/txt/"):
 		specialoutputfile = "./output_by_judge/" + judge + ".txt"

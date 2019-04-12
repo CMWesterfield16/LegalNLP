@@ -8,18 +8,21 @@ def main():
     with open(outputfile, "w+") as outf:
         outf.write("State\t" + "\t".join(parameters) + "\n")
         for statetxt in os.listdir(input_dir):
-            state = os.path.splitext("path_to_file")[0]
-            outf.write(state)
+            state = os.path.splitext(statetxt)[0]
+            outf.write(state+"\t")
             with open(input_dir + statetxt,'r') as infile:
                 next(infile)
                 numlines = 0
                 totalsum = [0]*len(parameters)
                 for line in infile:
+                    if (len(line.split("\t")) < (2 + len(parameters))):
+                        break
                     numlines+=1
                     for i in range(0,len(parameters)):
-                        totalsum[i] += int(line.split[3+i])
-                totalsum = totalsum / numlines
-                outf.write("\t" + str(totalsum))
+                        # print(i)
+                        totalsum[i] += float(line.split("\t")[3+i])
+                totalsum = [str(x / numlines) for x in totalsum]
+                outf.write("\t".join(totalsum))
             outf.write("\n")
 
 main()

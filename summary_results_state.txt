@@ -1,0 +1,1 @@
+State	Avg Word Len	Latin Terms	Second Person	Decisive Terms	Linguistic Diversity	Avg Sentence Len	Beg w/ Conjunction Sentences	Avg Polarity	Avg Subjectivity

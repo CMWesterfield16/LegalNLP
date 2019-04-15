@@ -13,5 +13,4 @@ def main():
 				for line in savecontent:
 					f.write(line+"\n")
 
-
 main()

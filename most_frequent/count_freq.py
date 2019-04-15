@@ -132,7 +132,7 @@ def main():
 			with open(outputfolder+year+"/"+year+"_"+str(size)+"grams.txt", "w+") as f:
 				f.write("Rank\t"+str(size)+"gram\tNumberOfTimes\n")
 				lst = all_counts_dict[year][size]
-				for i in range(0,len(lst)):
+				for i in range(0,min(len(lst), NUM_MOST_COMMON)):
 					tup = lst[i]
 					f.write(str(i)+"\t"+str(tup[0])+"\t"+str(tup[1])+"\n")
 

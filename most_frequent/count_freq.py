@@ -25,11 +25,7 @@ codeyearsint = [1925, 1934, 1940, 1946, 1953, 1958, 1964, 1970, 1976, 1982, 1988
 codeyears = [str(x) for x in codeyearsint]
 # codeyears = ["2012"]
 
-<<<<<<< HEAD
 NUM_MOST_COMMON = 1000
-=======
-NUM_MOST_COMMON = 50
->>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6
 ngram_sizes = [2, 3, 4]
 all_letters = ["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q","r","s","t","u","v","w","x","y","z"]
 irrelevant_words = ["",'',"nt","ord","et","rep","seq","no"]+all_letters
@@ -132,11 +128,7 @@ def main():
 		print("Graphing")
 		os.mkdir(outputfolder+year)
 		for size in ngram_sizes:
-<<<<<<< HEAD
 			# generate_top_graph(top_words[year][size], size, year,outputfolder+year)
-=======
-			generate_top_graph(top_words[year][size], size, year,outputfolder+year)
->>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6
 			with open(outputfolder+year+"/"+year+"_"+str(size)+"grams.txt", "w+") as f:
 				f.write("Rank\t"+str(size)+"gram\tNumberOfTimes\n")
 				lst = all_counts_dict[year][size]

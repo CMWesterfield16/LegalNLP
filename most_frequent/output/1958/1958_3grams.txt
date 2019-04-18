@@ -1,5 +1,4 @@
 Rank	3gram	NumberOfTimes
-<<<<<<< HEAD
 0	(u'of', u'this', u'title')	70043
 1	(u'the', u'united', u'states')	49156
 2	(u'do', u'do', u'do')	36446
@@ -1000,56 +999,3 @@ Rank	3gram	NumberOfTimes
 997	(u'any', u'taxable', u'year')	877
 998	(u'centum', u'ad', u'valorem')	877
 999	(u'in', u'an', u'amount')	875
-=======
-0	('of', 'this', 'title')	70043
-1	('the', 'united', 'states')	49156
-2	('do', 'do', 'do')	36446
-3	('section', 'of', 'this')	36376
-4	('of', 'the', 'united')	28900
-5	('the', 'secretary', 'of')	24477
-6	('of', 'this', 'section')	20155
-7	('under', 'section', 'of')	19765
-8	('the', 'provisions', 'of')	17927
-9	('section', 'of', 'title')	16688
-10	('secretary', 'of', 'the')	16156
-11	('with', 'respect', 'to')	15885
-12	('note', 'under', 'section')	13797
-13	('june', 'ch', 'stat')	11763
-14	('see', 'section', 'of')	11647
-15	('set', 'out', 'as')	11061
-16	('generally', 'this', 'index')	9489
-17	('by', 'the', 'secretary')	9341
-18	('referred', 'to', 'in')	9282
-19	('in', 'the', 'case')	8856
-20	('the', 'case', 'of')	8592
-21	('in', 'accordance', 'with')	8388
-22	('the', 'date', 'of')	8197
-23	('sections', 'and', 'of')	8153
-24	('the', 'department', 'of')	8013
-25	('of', 'the', 'treasury')	7920
-26	('as', 'may', 'be')	7888
-27	('effective', 'date', 'of')	7801
-28	('of', 'section', 'of')	7705
-29	('provisions', 'of', 'this')	7638
-30	('of', 'this', 'chapter')	7518
-31	('shall', 'not', 'be')	7503
-32	('officers', 'and', 'employees')	7381
-33	('under', 'this', 'section')	7291
-34	('and', 'of', 'this')	7221
-35	('of', 'the', 'interior')	7112
-36	('by', 'section', 'of')	6987
-37	('aug', 'ch', 'stat')	6960
-38	('not', 'more', 'than')	6798
-39	('mar', 'ch', 'stat')	6502
-40	('this', 'section', 'shall')	5980
-41	('july', 'ch', 'stat')	5910
-42	('district', 'of', 'columbia')	5898
-43	('of', 'the', 'federal')	5721
-44	('of', 'the', 'army')	5643
-45	('the', 'purposes', 'of')	5597
-46	('to', 'the', 'secretary')	5556
-47	('this', 'title', 'and')	5478
-48	('of', 'this', 'act')	5437
-49	('stat', 'june', 'ch')	5400
-50	('subject', 'to', 'the')	5371
->>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

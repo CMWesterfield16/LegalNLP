@@ -1,5 +1,4 @@
 Rank	3gram	NumberOfTimes
-<<<<<<< HEAD
 0	(u'of', u'this', u'title')	219249
 1	(u'the', u'united', u'states')	100591
 2	(u'section', u'of', u'this')	99263
@@ -1000,56 +999,3 @@ Rank	3gram	NumberOfTimes
 997	(u'secretary', u'determines', u'that')	2057
 998	(u'of', u'this', u'order')	2055
 999	(u'prevention', u'and', u'control')	2055
-=======
-0	('of', 'this', 'title')	219249
-1	('the', 'united', 'states')	100591
-2	('section', 'of', 'this')	99263
-3	('referred', 'to', 'in')	94565
-4	('of', 'this', 'section')	64660
-5	('under', 'section', 'of')	57874
-6	('of', 'the', 'united')	56081
-7	('with', 'respect', 'to')	53768
-8	('the', 'secretary', 'of')	51805
-9	('generally', 'this', 'index')	44889
-10	('set', 'out', 'as')	41685
-11	('is', 'referred', 'to')	35093
-12	('this', 'section', 'is')	33955
-13	('note', 'under', 'section')	32719
-14	('to', 'in', 'other')	32528
-15	('main', 'edition', 'for')	32202
-16	('section', 'of', 'title')	32141
-17	('see', 'main', 'edition')	32122
-18	('edition', 'for', 'text')	32099
-19	('in', 'other', 'sections')	31680
-20	('other', 'sections', 'this')	31502
-21	('section', 'is', 'referred')	30320
-22	('the', 'provisions', 'of')	30144
-23	('effective', 'date', 'of')	29552
-24	('by', 'the', 'secretary')	29190
-25	('for', 'purposes', 'of')	29166
-26	('in', 'the', 'case')	29164
-27	('the', 'case', 'of')	28972
-28	('sections', 'this', 'section')	28816
-29	('section', 'referred', 'to')	27756
-30	('see', 'section', 'of')	26664
-31	('under', 'this', 'section')	24668
-32	('of', 'this', 'act')	24281
-33	('date', 'of', 'amendment')	23442
-34	('sections', 'of', 'this')	23264
-35	('secretary', 'of', 'the')	23058
-36	('the', 'secretary', 'shall')	22951
-37	('the', 'date', 'of')	22662
-38	('section', 'of', 'pub')	22237
-39	('of', 'this', 'chapter')	21810
-40	('purposes', 'of', 'this')	20697
-41	('to', 'in', 'sections')	20565
-42	('for', 'text', 'of')	20557
-43	('this', 'title', 'and')	20350
-44	('in', 'accordance', 'with')	20196
-45	('this', 'section', 'shall')	19541
-46	('in', 'section', 'of')	19124
-47	('this', 'title', 'section')	18433
-48	('shall', 'not', 'be')	16317
-49	('this', 'title', 'title')	16057
-50	('the', 'amount', 'of')	16024
->>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

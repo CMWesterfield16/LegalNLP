@@ -1,5 +1,4 @@
 Rank	3gram	NumberOfTimes
-<<<<<<< HEAD
 0	(u'of', u'this', u'title')	98791
 1	(u'the', u'united', u'states')	57107
 2	(u'section', u'of', u'this')	47542
@@ -1000,56 +999,3 @@ Rank	3gram	NumberOfTimes
 997	(u'stat', u'see', u'title')	1095
 998	(u'the', u'preceding', u'sentence')	1094
 999	(u'paid', u'by', u'the')	1094
-=======
-0	('of', 'this', 'title')	98791
-1	('the', 'united', 'states')	57107
-2	('section', 'of', 'this')	47542
-3	('of', 'the', 'united')	33635
-4	('referred', 'to', 'in')	32710
-5	('the', 'secretary', 'of')	31880
-6	('of', 'this', 'section')	28919
-7	('with', 'respect', 'to')	25728
-8	('under', 'section', 'of')	24334
-9	('the', 'provisions', 'of')	20281
-10	('generally', 'this', 'index')	20136
-11	('secretary', 'of', 'the')	18314
-12	('section', 'of', 'title')	18094
-13	('note', 'under', 'section')	17794
-14	('set', 'out', 'as')	16009
-15	('see', 'section', 'of')	14482
-16	('by', 'the', 'secretary')	14470
-17	('this', 'section', 'is')	11614
-18	('in', 'the', 'case')	11437
-19	('the', 'case', 'of')	11330
-20	('under', 'this', 'section')	11302
-21	('effective', 'date', 'of')	11002
-22	('june', 'ch', 'stat')	10834
-23	('the', 'department', 'of')	10817
-24	('of', 'this', 'chapter')	10756
-25	('is', 'referred', 'to')	10406
-26	('in', 'accordance', 'with')	9970
-27	('section', 'is', 'referred')	9767
-28	('as', 'may', 'be')	9565
-29	('provisions', 'of', 'this')	9534
-30	('of', 'the', 'treasury')	9505
-31	('in', 'section', 'of')	9429
-32	('the', 'date', 'of')	9306
-33	('section', 'referred', 'to')	9093
-34	('by', 'section', 'of')	8857
-35	('sections', 'and', 'of')	8717
-36	('sections', 'this', 'section')	8696
-37	('to', 'in', 'other')	8453
-38	('section', 'of', 'pub')	8451
-39	('officers', 'and', 'employees')	8409
-40	('this', 'title', 'and')	8319
-41	('in', 'other', 'sections')	8199
-42	('shall', 'not', 'be')	8163
-43	('district', 'of', 'columbia')	8063
-44	('this', 'section', 'shall')	8008
-45	('the', 'purposes', 'of')	7985
-46	('of', 'the', 'interior')	7955
-47	('of', 'section', 'of')	7875
-48	('and', 'of', 'this')	7855
-49	('purposes', 'of', 'this')	7730
-50	('other', 'sections', 'this')	7716
->>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

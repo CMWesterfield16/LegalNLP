@@ -1,5 +1,4 @@
 Rank	3gram	NumberOfTimes
-<<<<<<< HEAD
 0	(u'of', u'this', u'title')	121145
 1	(u'referred', u'to', u'in')	65658
 2	(u'the', u'united', u'states')	58678
@@ -1000,56 +999,3 @@ Rank	3gram	NumberOfTimes
 997	(u'of', u'the', u'project')	1214
 998	(u'section', u'shall', u'apply')	1214
 999	(u'prevention', u'control', u'and')	1213
-=======
-0	('of', 'this', 'title')	121145
-1	('referred', 'to', 'in')	65658
-2	('the', 'united', 'states')	58678
-3	('section', 'of', 'this')	53284
-4	('of', 'this', 'section')	35628
-5	('of', 'the', 'united')	34576
-6	('the', 'secretary', 'of')	33015
-7	('generally', 'this', 'index')	32444
-8	('with', 'respect', 'to')	28898
-9	('is', 'referred', 'to')	26048
-10	('under', 'section', 'of')	25417
-11	('this', 'section', 'is')	25045
-12	('to', 'in', 'other')	23932
-13	('in', 'other', 'sections')	23549
-14	('section', 'is', 'referred')	23384
-15	('other', 'sections', 'this')	23020
-16	('section', 'referred', 'to')	22567
-17	('the', 'provisions', 'of')	22305
-18	('sections', 'this', 'section')	22111
-19	('set', 'out', 'as')	20018
-20	('secretary', 'of', 'the')	18829
-21	('note', 'under', 'section')	18137
-22	('section', 'of', 'title')	17459
-23	('see', 'section', 'of')	16909
-24	('by', 'the', 'secretary')	16511
-25	('ad', 'val', 'ad')	16408
-26	('val', 'ad', 'val')	15592
-27	('under', 'this', 'section')	14148
-28	('in', 'the', 'case')	13779
-29	('the', 'case', 'of')	13523
-30	('in', 'section', 'of')	13510
-31	('to', 'in', 'sections')	13481
-32	('of', 'this', 'chapter')	12741
-33	('in', 'accordance', 'with')	12470
-34	('effective', 'date', 'of')	12235
-35	('section', 'of', 'pub')	12106
-36	('provisions', 'of', 'this')	11068
-37	('as', 'may', 'be')	10946
-38	('to', 'in', 'section')	10788
-39	('the', 'department', 'of')	10562
-40	('this', 'section', 'shall')	10332
-41	('the', 'date', 'of')	10012
-42	('for', 'purposes', 'of')	10009
-43	('purposes', 'of', 'this')	9806
-44	('june', 'ch', 'stat')	9767
-45	('this', 'title', 'section')	9714
-46	('of', 'the', 'treasury')	9597
-47	('the', 'purposes', 'of')	9471
-48	('shall', 'not', 'be')	9263
-49	('this', 'title', 'and')	8983
-50	('the', 'fiscal', 'year')	8941
->>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

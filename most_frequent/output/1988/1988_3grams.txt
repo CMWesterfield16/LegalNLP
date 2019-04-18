@@ -1,5 +1,4 @@
 Rank	3gram	NumberOfTimes
-<<<<<<< HEAD
 0	(u'of', u'this', u'title')	278595
 1	(u'section', u'of', u'this')	115854
 2	(u'referred', u'to', u'in')	111940
@@ -1000,56 +999,3 @@ Rank	3gram	NumberOfTimes
 997	(u'under', u'sections', u'and')	2473
 998	(u'federal', u'rules', u'of')	2472
 999	(u'after', u'such', u'date')	2471
-=======
-0	('of', 'this', 'title')	278595
-1	('section', 'of', 'this')	115854
-2	('referred', 'to', 'in')	111940
-3	('the', 'united', 'states')	106449
-4	('of', 'this', 'section')	84138
-5	('under', 'section', 'of')	73088
-6	('generally', 'this', 'index')	66062
-7	('with', 'respect', 'to')	63551
-8	('the', 'secretary', 'of')	57014
-9	('of', 'the', 'united')	56837
-10	('set', 'out', 'as')	48775
-11	('main', 'edition', 'for')	44670
-12	('see', 'main', 'edition')	44590
-13	('edition', 'for', 'text')	44563
-14	('the', 'secretary', 'shall')	41147
-15	('note', 'under', 'section')	41070
-16	('is', 'referred', 'to')	40519
-17	('section', 'of', 'title')	38897
-18	('this', 'section', 'is')	38619
-19	('by', 'the', 'secretary')	38363
-20	('under', 'this', 'section')	36095
-21	('to', 'in', 'other')	35700
-22	('section', 'is', 'referred')	35063
-23	('in', 'other', 'sections')	34248
-24	('other', 'sections', 'this')	34208
-25	('the', 'case', 'of')	34200
-26	('in', 'the', 'case')	34160
-27	('for', 'purposes', 'of')	33713
-28	('sections', 'this', 'section')	32109
-29	('of', 'this', 'act')	31656
-30	('the', 'provisions', 'of')	30768
-31	('effective', 'date', 'of')	30283
-32	('section', 'referred', 'to')	30270
-33	('the', 'date', 'of')	30103
-34	('section', 'of', 'pub')	28785
-35	('for', 'text', 'of')	27256
-36	('this', 'title', 'and')	27240
-37	('see', 'section', 'of')	27186
-38	('in', 'accordance', 'with')	26348
-39	('this', 'section', 'shall')	26330
-40	('sections', 'of', 'this')	24578
-41	('to', 'in', 'sections')	24362
-42	('purposes', 'of', 'this')	24357
-43	('of', 'this', 'chapter')	24153
-44	('secretary', 'of', 'the')	23695
-45	('date', 'of', 'amendment')	23377
-46	('in', 'section', 'of')	22143
-47	('the', 'secretary', 'may')	21109
-48	('to', 'carry', 'out')	20828
-49	('this', 'title', 'section')	19924
-50	('shall', 'not', 'be')	19867
->>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

@@ -1,4 +1,5 @@
 Rank	4gram	NumberOfTimes
+<<<<<<< HEAD
 0	(u'section', u'of', u'this', u'title')	95213
 1	(u'of', u'the', u'united', u'states')	60597
 2	(u'under', u'section', u'of', u'this')	57719
@@ -999,3 +1000,56 @@ Rank	4gram	NumberOfTimes
 997	(u'enact', u'ment', u'of', u'this')	1541
 998	(u'this', u'chapter', u'by', u'pub')	1541
 999	(u'oct', u'stat', u'historical', u'and')	1541
+=======
+0	('section', 'of', 'this', 'title')	95213
+1	('of', 'the', 'united', 'states')	60597
+2	('under', 'section', 'of', 'this')	57719
+3	('see', 'main', 'edition', 'for')	52116
+4	('main', 'edition', 'for', 'text')	51728
+5	('edition', 'for', 'text', 'of')	50234
+6	('note', 'under', 'section', 'of')	43566
+7	('effective', 'date', 'of', 'amendment')	37545
+8	('in', 'the', 'case', 'of')	35630
+9	('of', 'this', 'title', 'and')	30975
+10	('date', 'of', 'amendment', 'amendment')	22554
+11	('under', 'section', 'of', 'title')	21305
+12	('the', 'secretary', 'of', 'the')	21182
+13	('of', 'amendment', 'amendment', 'by')	21120
+14	('the', 'date', 'of', 'the')	20710
+15	('see', 'section', 'of', 'pub')	19180
+16	('amendment', 'amendment', 'by', 'pub')	17663
+17	('referred', 'to', 'in', 'subsec')	17611
+18	('after', 'the', 'date', 'of')	17397
+19	('the', 'public', 'health', 'and')	16794
+20	('title', 'the', 'public', 'health')	16429
+21	('for', 'purposes', 'of', 'this')	16373
+22	('to', 'the', 'code', 'see')	16339
+23	('stat', 'references', 'in', 'text')	16224
+24	('public', 'health', 'and', 'welfare')	16120
+25	('enactment', 'of', 'this', 'act')	14907
+26	('note', 'set', 'out', 'under')	14627
+27	('of', 'this', 'act', 'to')	14365
+28	('set', 'out', 'under', 'section')	14321
+29	('act', 'to', 'the', 'code')	14241
+30	('this', 'act', 'to', 'the')	14221
+31	('out', 'under', 'section', 'of')	13568
+32	('with', 'respect', 'to', 'the')	13180
+33	('the', 'amendments', 'made', 'by')	13179
+34	('of', 'the', 'enactment', 'of')	13027
+35	('and', 'of', 'this', 'title')	12942
+36	('of', 'this', 'title', 'for')	12858
+37	('date', 'of', 'the', 'enactment')	12731
+38	('of', 'house', 'of', 'representatives')	12667
+39	('for', 'complete', 'classification', 'of')	12611
+40	('for', 'the', 'purpose', 'of')	12419
+41	('the', 'date', 'of', 'enactment')	12397
+42	('date', 'of', 'enactment', 'of')	12364
+43	('classification', 'of', 'this', 'act')	12042
+44	('of', 'this', 'title', 'shall')	12037
+45	('title', 'united', 'states', 'code')	12030
+46	('set', 'out', 'as', 'an')	11926
+47	('the', 'enactment', 'of', 'this')	11760
+48	('of', 'the', 'house', 'of')	11745
+49	('in', 'the', 'united', 'states')	11654
+50	('of', 'title', 'united', 'states')	11505
+>>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

@@ -1,4 +1,5 @@
 Rank	4gram	NumberOfTimes
+<<<<<<< HEAD
 0	(u'section', u'of', u'this', u'title')	33825
 1	(u'do', u'do', u'do', u'do')	31470
 2	(u'of', u'the', u'united', u'states')	28215
@@ -999,3 +1000,56 @@ Rank	4gram	NumberOfTimes
 997	(u'of', u'officers', u'and', u'employees')	472
 998	(u'the', u'title', u'of', u'the')	472
 999	(u'in', u'part', u'that', u'the')	472
+=======
+0	('section', 'of', 'this', 'title')	33825
+1	('do', 'do', 'do', 'do')	31470
+2	('of', 'the', 'united', 'states')	28215
+3	('under', 'section', 'of', 'this')	13973
+4	('the', 'secretary', 'of', 'the')	13915
+5	('note', 'under', 'section', 'of')	12456
+6	('in', 'the', 'case', 'of')	8502
+7	('see', 'section', 'of', 'this')	6437
+8	('the', 'provisions', 'of', 'this')	6230
+9	('and', 'of', 'this', 'title')	5846
+10	('secretary', 'of', 'the', 'treasury')	5575
+11	('secretary', 'of', 'the', 'interior')	5410
+12	('of', 'this', 'title', 'and')	5383
+13	('sections', 'and', 'of', 'this')	4941
+14	('for', 'the', 'purpose', 'of')	4724
+15	('the', 'united', 'states', 'and')	4672
+16	('by', 'the', 'secretary', 'of')	4648
+17	('under', 'section', 'of', 'title')	4645
+18	('the', 'united', 'states', 'or')	4638
+19	('to', 'the', 'secretary', 'of')	4478
+20	('of', 'this', 'title', 'shall')	4398
+21	('the', 'district', 'of', 'columbia')	4305
+22	('effective', 'date', 'of', 'amendment')	4116
+23	('and', 'government', 'officers', 'and')	4002
+24	('stat', 'references', 'in', 'text')	3849
+25	('ad', 'val', 'ad', 'val')	3822
+26	('government', 'officers', 'and', 'employees')	3806
+27	('in', 'the', 'united', 'states')	3783
+28	('in', 'accordance', 'with', 'the')	3629
+29	('historical', 'and', 'revision', 'notes')	3617
+30	('ch', 'stat', 'june', 'ch')	3604
+31	('title', 'executive', 'departments', 'and')	3580
+32	('stat', 'june', 'ch', 'stat')	3542
+33	('stat', 'historical', 'and', 'revision')	3530
+34	('of', 'this', 'title', 'the')	3485
+35	('the', 'provisions', 'of', 'section')	3477
+36	('to', 'the', 'united', 'states')	3463
+37	('of', 'the', 'department', 'of')	3460
+38	('for', 'the', 'purposes', 'of')	3457
+39	('of', 'the', 'secretary', 'of')	3442
+40	('of', 'section', 'of', 'this')	3420
+41	('of', 'title', 'executive', 'departments')	3412
+42	('by', 'the', 'united', 'states')	3408
+43	('sections', 'of', 'this', 'title')	3304
+44	('act', 'of', 'as', 'amended')	3263
+45	('see', 'note', 'under', 'section')	3259
+46	('departments', 'and', 'government', 'officers')	3251
+47	('in', 'section', 'of', 'this')	3206
+48	('executive', 'departments', 'and', 'government')	3192
+49	('with', 'respect', 'to', 'the')	3192
+50	('under', 'the', 'provisions', 'of')	3190
+>>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

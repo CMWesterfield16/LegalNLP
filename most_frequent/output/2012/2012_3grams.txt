@@ -1,4 +1,5 @@
 Rank	3gram	NumberOfTimes
+<<<<<<< HEAD
 0	(u'of', u'this', u'title')	225335
 1	(u'the', u'united', u'states')	115512
 2	(u'section', u'of', u'this')	100896
@@ -999,3 +1000,56 @@ Rank	3gram	NumberOfTimes
 997	(u'under', u'the', u'plan')	2715
 998	(u'on', u'active', u'duty')	2712
 999	(u'and', u'criminal', u'procedure')	2711
+=======
+0	('of', 'this', 'title')	225335
+1	('the', 'united', 'states')	115512
+2	('section', 'of', 'this')	100896
+3	('under', 'section', 'of')	87115
+4	('the', 'secretary', 'of')	68608
+5	('with', 'respect', 'to')	68482
+6	('of', 'this', 'section')	64132
+7	('set', 'out', 'as')	63184
+8	('of', 'the', 'united')	63128
+9	('section', 'of', 'title')	53617
+10	('note', 'under', 'section')	52117
+11	('effective', 'date', 'of')	48272
+12	('referred', 'to', 'in')	44599
+13	('under', 'this', 'section')	43106
+14	('the', 'secretary', 'shall')	42581
+15	('main', 'edition', 'for')	41505
+16	('see', 'main', 'edition')	41230
+17	('the', 'date', 'of')	41182
+18	('edition', 'for', 'text')	40945
+19	('of', 'this', 'act')	40748
+20	('for', 'text', 'of')	39998
+21	('stat', 'provided', 'that')	38926
+22	('date', 'of', 'amendment')	38900
+23	('by', 'the', 'secretary')	38575
+24	('the', 'case', 'of')	34095
+25	('in', 'the', 'case')	33623
+26	('for', 'purposes', 'of')	33378
+27	('this', 'title', 'and')	31953
+28	('this', 'section', 'shall')	28219
+29	('section', 'of', 'pub')	28066
+30	('secretary', 'of', 'the')	28029
+31	('in', 'accordance', 'with')	27466
+32	('the', 'department', 'of')	26432
+33	('see', 'section', 'of')	26263
+34	('the', 'provisions', 'of')	25058
+35	('the', 'sec', 'retary')	24996
+36	('not', 'later', 'than')	24924
+37	('references', 'in', 'text')	24592
+38	('to', 'carry', 'out')	24234
+39	('after', 'the', 'date')	23498
+40	('amendment', 'by', 'pub')	23367
+41	('purposes', 'of', 'this')	22959
+42	('date', 'of', 'the')	22936
+43	('of', 'amendment', 'amendment')	22883
+44	('section', 'of', 'the')	22615
+45	('amendment', 'amendment', 'by')	22365
+46	('oct', 'stat', 'pub')	20931
+47	('of', 'the', 'senate')	20337
+48	('as', 'added', 'pub')	20322
+49	('the', 'secretary', 'may')	20218
+50	('pub', 'l', 'effective')	20045
+>>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

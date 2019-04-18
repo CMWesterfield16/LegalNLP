@@ -1,4 +1,5 @@
 Rank	4gram	NumberOfTimes
+<<<<<<< HEAD
 0	(u'section', u'of', u'this', u'title')	44501
 1	(u'of', u'the', u'united', u'states')	32846
 2	(u'under', u'section', u'of', u'this')	17964
@@ -999,3 +1000,56 @@ Rank	4gram	NumberOfTimes
 997	(u'this', u'act', u'referred', u'to')	594
 998	(u'was', u'repealed', u'by', u'act')	594
 999	(u'begins', u'on', u'or', u'after')	593
+=======
+0	('section', 'of', 'this', 'title')	44501
+1	('of', 'the', 'united', 'states')	32846
+2	('under', 'section', 'of', 'this')	17964
+3	('the', 'secretary', 'of', 'the')	15995
+4	('note', 'under', 'section', 'of')	15487
+5	('in', 'the', 'case', 'of')	11194
+6	('is', 'referred', 'to', 'in')	10172
+7	('section', 'is', 'referred', 'to')	9728
+8	('this', 'section', 'is', 'referred')	9546
+9	('section', 'referred', 'to', 'in')	8950
+10	('sections', 'this', 'section', 'is')	8635
+11	('to', 'in', 'other', 'sections')	8139
+12	('of', 'this', 'title', 'and')	8101
+13	('referred', 'to', 'in', 'other')	7959
+14	('in', 'other', 'sections', 'this')	7670
+15	('the', 'provisions', 'of', 'this')	7505
+16	('other', 'sections', 'this', 'section')	7288
+17	('in', 'section', 'of', 'this')	7191
+18	('see', 'section', 'of', 'this')	6902
+19	('secretary', 'of', 'the', 'treasury')	6644
+20	('and', 'of', 'this', 'title')	6341
+21	('effective', 'date', 'of', 'amendment')	6225
+22	('for', 'the', 'purpose', 'of')	6189
+23	('secretary', 'of', 'the', 'interior')	5997
+24	('by', 'the', 'secretary', 'of')	5973
+25	('the', 'district', 'of', 'columbia')	5819
+26	('of', 'this', 'title', 'shall')	5557
+27	('sections', 'of', 'this', 'title')	5443
+28	('to', 'the', 'secretary', 'of')	5442
+29	('the', 'united', 'states', 'or')	5329
+30	('referred', 'to', 'in', 'section')	5306
+31	('sections', 'and', 'of', 'this')	5297
+32	('under', 'section', 'of', 'title')	5201
+33	('the', 'united', 'states', 'and')	4910
+34	('historical', 'and', 'revision', 'notes')	4806
+35	('of', 'the', 'department', 'of')	4636
+36	('stat', 'references', 'in', 'text')	4606
+37	('the', 'purposes', 'of', 'this')	4600
+38	('fiscal', 'year', 'ending', 'june')	4549
+39	('date', 'of', 'amendment', 'amendment')	4509
+40	('for', 'the', 'purposes', 'of')	4474
+41	('ad', 'val', 'ad', 'val')	4450
+42	('referred', 'to', 'in', 'sections')	4367
+43	('stat', 'historical', 'and', 'revision')	4366
+44	('with', 'respect', 'to', 'the')	4359
+45	('of', 'this', 'title', 'the')	4329
+46	('of', 'health', 'education', 'and')	4310
+47	('for', 'the', 'fiscal', 'year')	4304
+48	('the', 'fiscal', 'year', 'ending')	4214
+49	('of', 'the', 'secretary', 'of')	4208
+50	('health', 'education', 'and', 'welfare')	4174
+>>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

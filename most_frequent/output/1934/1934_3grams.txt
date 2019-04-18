@@ -1,4 +1,5 @@
 Rank	3gram	NumberOfTimes
+<<<<<<< HEAD
 0	(u'the', u'united', u'states')	24801
 1	(u'do', u'do', u'do')	19893
 2	(u'of', u'the', u'united')	15201
@@ -999,3 +1000,56 @@ Rank	3gram	NumberOfTimes
 997	(u'secretary', u'of', u'interior')	312
 998	(u'the', u'net', u'income')	311
 999	(u'provision', u'of', u'law')	311
+=======
+0	('the', 'united', 'states')	24801
+1	('do', 'do', 'do')	19893
+2	('of', 'the', 'united')	15201
+3	('of', 'this', 'title')	13224
+4	('the', 'secretary', 'of')	11424
+5	('the', 'provisions', 'of')	8832
+6	('secretary', 'of', 'the')	6533
+7	('section', 'of', 'this')	5813
+8	('of', 'this', 'chapter')	5769
+9	('of', 'this', 'section')	4375
+10	('provisions', 'of', 'this')	4338
+11	('as', 'may', 'be')	4048
+12	('of', 'the', 'treasury')	3934
+13	('shall', 'not', 'be')	3933
+14	('rules', 'and', 'regulations')	3760
+15	('not', 'more', 'than')	3452
+16	('with', 'respect', 'to')	3422
+17	('of', 'the', 'secretary')	3256
+18	('by', 'the', 'secretary')	3133
+19	('united', 'states', 'or')	2905
+20	('district', 'of', 'columbia')	2865
+21	('united', 'states', 'and')	2813
+22	('subject', 'to', 'the')	2687
+23	('in', 'the', 'case')	2631
+24	('the', 'case', 'of')	2627
+25	('the', 'date', 'of')	2600
+26	('the', 'district', 'of')	2591
+27	('of', 'the', 'interior')	2587
+28	('for', 'the', 'purpose')	2559
+29	('secretary', 'of', 'agriculture')	2557
+30	('the', 'amount', 'of')	2534
+31	('it', 'shall', 'be')	2456
+32	('the', 'purpose', 'of')	2444
+33	('in', 'accordance', 'with')	2394
+34	('this', 'section', 'shall')	2303
+35	('in', 'excess', 'of')	2284
+36	('not', 'less', 'than')	2281
+37	('any', 'of', 'the')	2198
+38	('approval', 'of', 'the')	2170
+39	('the', 'approval', 'of')	2160
+40	('under', 'the', 'provisions')	2130
+41	('shall', 'be', 'made')	2037
+42	('is', 'authorized', 'to')	2012
+43	('per', 'centum', 'of')	2005
+44	('to', 'the', 'united')	1989
+45	('the', 'purposes', 'of')	1979
+46	('part', 'of', 'the')	1955
+47	('provided', 'further', 'that')	1890
+48	('under', 'this', 'chapter')	1882
+49	('stat', 'see', 'section')	1876
+50	('as', 'provided', 'in')	1866
+>>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

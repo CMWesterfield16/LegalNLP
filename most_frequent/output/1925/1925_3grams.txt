@@ -1,4 +1,5 @@
 Rank	3gram	NumberOfTimes
+<<<<<<< HEAD
 0	(u'the', u'united', u'states')	22467
 1	(u'of', u'this', u'title')	16744
 2	(u'of', u'the', u'united')	13521
@@ -999,3 +1000,56 @@ Rank	3gram	NumberOfTimes
 997	(u'in', u'pursuance', u'of')	327
 998	(u'title', u'ii', u'stat')	326
 999	(u'the', u'grade', u'of')	326
+=======
+0	('the', 'united', 'states')	22467
+1	('of', 'this', 'title')	16744
+2	('of', 'the', 'united')	13521
+3	('do', 'do', 'do')	12997
+4	('the', 'secretary', 'of')	10832
+5	('see', 'note', 'to')	8971
+6	('of', 'this', 'section')	7293
+7	('the', 'provisions', 'of')	7178
+8	('secretary', 'of', 'the')	6857
+9	('section', 'of', 'this')	4693
+10	('title', 'of', 'act')	4516
+11	('for', 'title', 'of')	4502
+12	('of', 'this', 'chapter')	4378
+13	('act', 'see', 'note')	4211
+14	('of', 'act', 'see')	4210
+15	('of', 'the', 'treasury')	3626
+16	('provisions', 'of', 'this')	3502
+17	('entitled', 'an', 'act')	3397
+18	('revenue', 'act', 'of')	3375
+19	('stat', 'for', 'title')	3303
+20	('of', 'the', 'secretary')	3281
+21	('district', 'of', 'columbia')	3269
+22	('shall', 'not', 'be')	3258
+23	('the', 'district', 'of')	3191
+24	('this', 'section', 'should')	3172
+25	('as', 'may', 'be')	3076
+26	('not', 'more', 'than')	3042
+27	('of', 'the', 'interior')	3038
+28	('secretary', 'of', 'war')	2986
+29	('by', 'the', 'secretary')	2966
+30	('an', 'act', 'to')	2924
+31	('cents', 'per', 'pound')	2847
+32	('per', 'centum', 'ad')	2774
+33	('the', 'case', 'of')	2645
+34	('centum', 'ad', 'valorem')	2638
+35	('united', 'states', 'and')	2562
+36	('part', 'of', 'the')	2558
+37	('stat', 'see', 'note')	2528
+38	('to', 'the', 'text')	2515
+39	('the', 'amount', 'of')	2506
+40	('cited', 'to', 'the')	2501
+41	('united', 'states', 'or')	2486
+42	('the', 'revenue', 'act')	2461
+43	('new', 'this', 'section')	2422
+44	('this', 'section', 'was')	2414
+45	('of', 'the', 'district')	2400
+46	('this', 'section', 'constitutes')	2314
+47	('was', 'repealed', 'by')	2267
+48	('in', 'line', 'of')	2258
+49	('not', 'less', 'than')	2253
+50	('a', 'of', 'this')	2189
+>>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

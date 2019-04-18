@@ -1,4 +1,5 @@
 Rank	4gram	NumberOfTimes
+<<<<<<< HEAD
 0	(u'of', u'the', u'united', u'states')	12844
 1	(u'do', u'do', u'do', u'do')	11157
 2	(u'the', u'secretary', u'of', u'the')	5349
@@ -999,3 +1000,56 @@ Rank	4gram	NumberOfTimes
 997	(u'repealed', u'by', u'act', u'dec')	186
 998	(u'per', u'centum', u'or', u'more')	185
 999	(u'to', u'the', u'benefits', u'of')	185
+=======
+0	('of', 'the', 'united', 'states')	12844
+1	('do', 'do', 'do', 'do')	11157
+2	('the', 'secretary', 'of', 'the')	5349
+3	('for', 'title', 'of', 'act')	4391
+4	('act', 'see', 'note', 'to')	4149
+5	('title', 'of', 'act', 'see')	4116
+6	('of', 'act', 'see', 'note')	4106
+7	('section', 'of', 'this', 'title')	3819
+8	('stat', 'for', 'title', 'of')	3265
+9	('the', 'provisions', 'of', 'this')	2975
+10	('secretary', 'of', 'the', 'treasury')	2761
+11	('entitled', 'an', 'act', 'to')	2668
+12	('by', 'the', 'secretary', 'of')	2667
+13	('per', 'centum', 'ad', 'valorem')	2622
+14	('stat', 'see', 'note', 'to')	2491
+15	('the', 'district', 'of', 'columbia')	2470
+16	('cited', 'to', 'the', 'text')	2450
+17	('the', 'revenue', 'act', 'of')	2441
+18	('secretary', 'of', 'the', 'interior')	2409
+19	('of', 'this', 'section', 'should')	2246
+20	('the', 'united', 'states', 'and')	2235
+21	('the', 'united', 'states', 'or')	2158
+22	('of', 'the', 'secretary', 'of')	2141
+23	('new', 'this', 'section', 'constitutes')	2135
+24	('under', 'the', 'provisions', 'of')	2094
+25	('of', 'the', 'revenue', 'act')	2051
+26	('to', 'the', 'united', 'states')	2050
+27	('the', 'secretary', 'of', 'war')	2004
+28	('in', 'the', 'case', 'of')	1988
+29	('line', 'of', 'this', 'section')	1941
+30	('act', 'cited', 'to', 'the')	1895
+31	('the', 'act', 'cited', 'to')	1847
+32	('section', 'constitutes', 'of', 'act')	1786
+33	('in', 'the', 'united', 'states')	1763
+34	('the', 'approval', 'of', 'the')	1695
+35	('this', 'section', 'should', 'read')	1689
+36	('section', 'was', 'repealed', 'by')	1687
+37	('this', 'section', 'was', 'repealed')	1676
+38	('to', 'the', 'text', 'was')	1617
+39	('for', 'the', 'purpose', 'of')	1599
+40	('in', 'line', 'of', 'this')	1593
+41	('this', 'section', 'constitutes', 'of')	1550
+42	('to', 'of', 'this', 'title')	1540
+43	('was', 'entitled', 'an', 'act')	1534
+44	('stat', 'the', 'act', 'cited')	1532
+45	('the', 'text', 'was', 'entitled')	1531
+46	('text', 'was', 'entitled', 'an')	1507
+47	('of', 'this', 'title', 'shall')	1504
+48	('of', 'this', 'title', 'was')	1469
+49	('with', 'the', 'approval', 'of')	1442
+50	('the', 'secretary', 'of', 'agriculture')	1440
+>>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

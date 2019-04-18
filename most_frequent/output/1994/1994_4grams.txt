@@ -1,4 +1,5 @@
 Rank	4gram	NumberOfTimes
+<<<<<<< HEAD
 0	(u'section', u'of', u'this', u'title')	109882
 1	(u'of', u'the', u'united', u'states')	59157
 2	(u'under', u'section', u'of', u'this')	53175
@@ -999,3 +1000,56 @@ Rank	4gram	NumberOfTimes
 997	(u'of', u'this', u'title', u'part')	1357
 998	(u'the', u'secretary', u'under', u'section')	1357
 999	(u'for', u'the', u'district', u'of')	1356
+=======
+0	('section', 'of', 'this', 'title')	109882
+1	('of', 'the', 'united', 'states')	59157
+2	('under', 'section', 'of', 'this')	53175
+3	('main', 'edition', 'for', 'text')	47597
+4	('see', 'main', 'edition', 'for')	47331
+5	('edition', 'for', 'text', 'of')	46347
+6	('is', 'referred', 'to', 'in')	39855
+7	('note', 'under', 'section', 'of')	37699
+8	('to', 'in', 'other', 'sections')	35767
+9	('in', 'other', 'sections', 'this')	35600
+10	('section', 'is', 'referred', 'to')	34555
+11	('this', 'section', 'is', 'referred')	34548
+12	('referred', 'to', 'in', 'other')	34215
+13	('sections', 'this', 'section', 'is')	32487
+14	('section', 'referred', 'to', 'in')	31561
+15	('other', 'sections', 'this', 'section')	31197
+16	('in', 'the', 'case', 'of')	30641
+17	('of', 'this', 'title', 'and')	25724
+18	('sections', 'of', 'this', 'title')	24413
+19	('referred', 'to', 'in', 'sections')	24101
+20	('effective', 'date', 'of', 'amendment')	22069
+21	('of', 'this', 'title', 'section')	20460
+22	('of', 'this', 'title', 'title')	20415
+23	('the', 'secretary', 'of', 'the')	18944
+24	('in', 'section', 'of', 'this')	17218
+25	('under', 'section', 'of', 'title')	16992
+26	('the', 'date', 'of', 'the')	16682
+27	('referred', 'to', 'in', 'subsec')	16491
+28	('see', 'section', 'of', 'pub')	15629
+29	('of', 'amendment', 'amendment', 'by')	15520
+30	('date', 'of', 'amendment', 'amendment')	15433
+31	('referred', 'to', 'in', 'section')	14953
+32	('for', 'purposes', 'of', 'this')	14547
+33	('the', 'public', 'health', 'and')	14109
+34	('this', 'title', 'title', 'section')	14057
+35	('title', 'the', 'public', 'health')	13683
+36	('to', 'the', 'code', 'see')	13476
+37	('in', 'sections', 'of', 'this')	13343
+38	('to', 'in', 'sections', 'of')	13323
+39	('public', 'health', 'and', 'welfare')	13285
+40	('set', 'out', 'under', 'section')	13053
+41	('amendment', 'amendment', 'by', 'pub')	13017
+42	('after', 'the', 'date', 'of')	12825
+43	('note', 'set', 'out', 'under')	12678
+44	('of', 'this', 'act', 'to')	12504
+45	('act', 'to', 'the', 'code')	12432
+46	('this', 'act', 'to', 'the')	12409
+47	('and', 'of', 'this', 'title')	12307
+48	('out', 'under', 'section', 'of')	12112
+49	('for', 'the', 'purpose', 'of')	11760
+50	('b', 'of', 'pub', 'l')	11632
+>>>>>>> e2275a9d7010f513e78cbffa0c7389adf1d352e6

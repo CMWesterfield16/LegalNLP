@@ -1,2 +1,3 @@
-State	Avg Word Len	Latin Terms	Second Person	Decisive Terms	Linguistic Diversity	Avg Sentence Len	Beg w/ Conjunction Sentences	Avg Polarity	Avg Subjectivity
-Hawaii	4.7080331485	0.00232545474643	0.000483658420472	0.00116243709839	0.337813203398	33.8441405289	0.0240940240587	0.0231750752645	0.243321739807
+version https://git-lfs.github.com/spec/v1
+oid sha256:84156a36c0d03236c80d9d51e15f25ce01aeffa1ff104366516dae71505676e0
+size 6980

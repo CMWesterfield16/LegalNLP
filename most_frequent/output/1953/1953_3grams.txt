@@ -1,1 +1,3 @@
-Rank	3gram	NumberOfTimes
+version https://git-lfs.github.com/spec/v1
+oid sha256:49cd9a2cef1518f1fa2ee2505f321296290fc8afaeb4ff787ed207df564f2682
+size 25
